@@ -1,3 +1,0 @@
-Impact of a Distributed Architecture for Space-Based Radar
-Douglas P. Wickert, Graeme B. Shaw, and Daniel Hastings
-Journal of Spacecraft and Rockets 1998 35:5, 703-713
